@@ -1,0 +1,59 @@
+[
+  {
+    "name": "EXAMPLE1",
+    "portions": [
+      { "unit_name": "g", "gram_weight": 1 },
+      { "unit_name": "tbsp", "gram_weight": 15 },
+      { "unit_name": "RACC", "gram_weight": 30 }
+    ],
+    "level1": {
+      "calories": 229, "protein": 7.35, "total_fat": 17.1, "total_carbs": 14.9,
+      "fiber": 5.4, "sugars": 0.34, "sodium": 438, "calcium": 41.0,
+      "vitamin_c": 0.0, "vitamin_d": 0.0
+    },
+    "level2": {
+      "fat_details": { "saturated": 2.22, "monounsaturated": 6.37, "polyunsaturated": 7.48, "trans": 0.018 },
+      "carb_details": { "starch": 8.12, "sucrose": 0.18, "fructose": 0.15 },
+      "vitamins": { "vitamin_a": 1.0, "vitamin_e": 1.74, "vitamin_k": 17.2, "thiamin_b1": 0.150, "riboflavin_b2": 0.115, "niacin_b3": 0.948, "vitamin_b6": 0.143, "folate": 36.0 },
+      "minerals": { "potassium": 289, "iron": 2.41, "magnesium": 71.1, "zinc": 1.38, "phosphorus": 166 }
+    }
+  },
+  {
+    "name": "EXAMPLE2",
+    "portions": [
+      { "unit_name": "g", "gram_weight": 1 },
+      { "unit_name": "bowl", "gram_weight": 200 }
+    ],
+    "level1": {
+      "calories": 130, "protein": 2.7, "total_fat": 0.3, "total_carbs": 28,
+      "fiber": 0.4, "sugars": 0.1, "sodium": 1, "calcium": 10,
+      "vitamin_c": 0.0, "vitamin_d": 0.0
+    },
+    "level2": {}
+  },
+  {
+    "name": "EXAMPLE3",
+    "portions": [
+      { "unit_name": "one", "gram_weight": 50 }
+    ],
+    "level1": {
+      "calories": 70, "protein": 6, "total_fat": 5, "total_carbs": 1,
+      "fiber": 0, "sugars": 1, "sodium": 70, "calcium": 25,
+      "vitamin_c": 0.0, "vitamin_d": 1.0
+    },
+    "level2": {}
+  },
+  {
+    "name": "EXAMPLE4",
+    "portions": [
+      { "unit_name": "g", "gram_weight": 1 },
+      { "unit_name": "one", "gram_weight": 120 }
+    ],
+    "level1": {
+      "calories": 89, "protein": 1.1, "total_fat": 0.3, "total_carbs": 23,
+      "fiber": 2.6, "sugars": 12, "sodium": 1, "calcium": 5,
+      "vitamin_c": 8.7, "vitamin_d": 0.0
+    },
+    "level2": {}
+  }
+]
